@@ -6,4 +6,4 @@ Optimized C++ Particle System
 - Implemented a heap-like data structure to hold active and inactive particles and improve speeds through particle recycling.
 - Used 'Load-in-Place' buffer for quicker initialization of data in particle structure.
 - Diagnosed highly active methods and loops and reworked to remove costly operations/incorporate SIMD math.
-- Achieved ~10x overall speed boost, fastest system in 25+ student class.
+- Achieved fastest system in 25+ student class.
